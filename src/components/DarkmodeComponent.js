@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "../App.css";
-import { Nav, NavItem, Button } from 'reactstrap';
 import styled, { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme, GlobalStyles, Buttones } from "../themes.js";
 
